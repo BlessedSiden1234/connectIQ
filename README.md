@@ -8,8 +8,7 @@ Built for **content creators, brands, and agencies** who want to understand, ana
 
 ## 🚀 Live Demo
 
-🔗 **Coming Soon**  
-*Currently under active development – MVP release coming shortly.*
+🔗 https://connect-iq-five.vercel.app/
 
 ---
 
@@ -30,7 +29,7 @@ Built for **content creators, brands, and agencies** who want to understand, ana
 
 | Technology | Purpose |
 |---------|--------|
-| **Next.js 14 (App Router)** | Frontend framework |
+| **Next.js 15 (App Router)** | Frontend framework |
 | **TypeScript** | Type safety |
 | **Firebase** | Auth, Firestore, Hosting |
 | **Tailwind CSS** | Styling |
@@ -50,32 +49,34 @@ Built for **content creators, brands, and agencies** who want to understand, ana
 ### Firebase Setup Screenshots
 
 #### 1️⃣ Create Firebase Project
-![Create Firebase Project](./screenshots/firebase-create-project.png)
+![Create Firebase Project](./screenshots/firebase-iq.png)
 
 #### 2️⃣ Enable Authentication Providers
-![Enable Auth Providers](./screenshots/firebase-auth-providers.png)
-
-#### 3️⃣ Email & Password Authentication
-![Email Authentication](./screenshots/firebase-email-auth.png)
-
-#### 4️⃣ Google Sign-In Configuration
-![Google Sign In](./screenshots/firebase-google-auth.png)
+![Enable Auth Providers](./screenshots/firebase-auth-iq.png)
 
 ---
 
 ## 📸 Application Screenshots
 
 ### Landing Page
-![Landing Page](./screenshots/landing-page.png)
+![Landing Page](./screenshots/dashboard-iq.png)
 
-### Login Page
-![Login Page](./screenshots/login-page.png)
-
-### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+### Signup Page
+![Signup Page](./screenshots/signup-iq.png)
 
 ### AI Style Guide Page
-![Style Guide](./screenshots/style-guide.png)
+![Style Guide](./screenshots/style-guide-iq.png)
+
+### AI Style Guide Analyst
+![Style Guide Analyst](./screenshots/style-analyst-iq.png)
+
+### Link Accounts
+![Link Accounts](./screenshots/link-accounts-iq.png)
+
+
+### Settings
+![Settings](./screenshots/settings-iq.png)
+
 
 ---
 
@@ -172,15 +173,6 @@ git commit -m "Add new feature"
 git push origin feature/new-feature
 ```
 5. Open a Pull Request 🚀
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for details.
-
----
 
 ## 👤 Author
 
